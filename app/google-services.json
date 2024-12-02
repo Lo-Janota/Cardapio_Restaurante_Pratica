@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112727521950",
+    "project_id": "cardapiopratica",
+    "storage_bucket": "cardapiopratica.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112727521950:android:d28462bee2181cd3ac598f",
+        "android_client_info": {
+          "package_name": "com.example.cardapio_pratica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbLjjTq7t3HFZTXwj2dE46bIkchzI-OJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
