@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.example.cardapio_pratica.databinding.ActivityCadastrarBinding
 
 // Classe da Activity responsável pelo cadastro de novos usuários
-class CadastrarActivity : AppCompatActivity() {
+class CadastrarUsuarioActivity : AppCompatActivity() {
 
     // Binding para acessar os elementos de layout da Activity
     private lateinit var binding: ActivityCadastrarBinding

@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
 
         // Configura a ação do texto "Cadastrar" para abrir a tela de cadastro
         binding.txtCadastrar.setOnClickListener {
-            val intent = Intent(this, CadastrarActivity::class.java)
+            val intent = Intent(this, CadastrarUsuarioActivity::class.java)
             startActivity(intent)
         }
 

@@ -23,7 +23,7 @@
 
         <!-- Cadastrar Activity -->
         <activity
-            android:name=".CadastrarActivity"
+            android:name=".CadastrarUsuarioActivity"
             android:exported="true" />
 
         <!-- Esqueceu Senha Activity -->
